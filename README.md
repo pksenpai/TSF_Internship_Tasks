@@ -14,7 +14,7 @@ We were also given a user input of time - 9.25 Hrs and we are supposed to make a
 
 ![RESULT](https://user-images.githubusercontent.com/52780573/103445553-c0030f80-4c9b-11eb-9c4c-0f898bf8b753.png)
 
-### Task - 2
+### Task - 6
 
 In this task we were given the Iris data set and we were supposed to create a classifier that could classify between the various Iris species when the user gave an input. We were asked to use the decision tree algorithm in order to make the classifier.
 My particular model gave an accuracy of nearly 98% with some really good f-scores and precision recall.
