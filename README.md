@@ -21,6 +21,7 @@ We were also given a user input of time - 9.25 Hrs and we are supposed to make a
 >> https://colab.research.google.com/drive/1gwdS7gNwSry6XKY8CtWvLlglI910UIVR?usp=sharing
 
 In this task we were given the Iris data set and we were supposed to create a classifier that could classify between the various Iris species when the user gave an input. We were asked to use the decision tree algorithm in order to make the classifier.
+
 My particular model gave an accuracy of nearly 98% with some really good f-scores and precision recall.
 
 ![RESULT](https://user-images.githubusercontent.com/52780573/103446220-2c354180-4ca3-11eb-8137-9cfc021bc8c7.png)
